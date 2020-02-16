@@ -11,7 +11,7 @@
 	<groupId>com.freshworks.example</groupId>
 	<artifactId>Docker-jenkins-integration</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+
 	<name>Docker-jenkins-integration</name>
 	<description>Demo project for Spring Boot</description>
 
